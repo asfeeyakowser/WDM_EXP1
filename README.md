@@ -1,5 +1,5 @@
 ### EX1 Creation of Employee, Weather dataset in WEKA Data Mining and Analysis Tool and perform Preprocessing
-### DATE: 
+### DATE: 12.11.2026
 ### AIM: 
   To Create Employee, Weather dataset in WEKA Data Mining and Analysis Tool and perform preprocessing
 ### PROCEDURE: 
@@ -53,6 +53,10 @@ rainy,75.0,80.0,false,yes
 8) Click on edit button which shows employee table on weka.
 
 ### OUTPUT:
+Employee 
+<img width="1250" height="722" alt="image" src="https://github.com/user-attachments/assets/1afc86e2-4a67-414e-811e-695af3813917" />
+Weather
+<img width="1268" height="726" alt="image" src="https://github.com/user-attachments/assets/9829a838-4134-45a6-8d33-4c65213e6dea" />
 
 
 
@@ -75,6 +79,10 @@ rainy,75.0,80.0,false,yes
 14) Click on the Edit button, it shows a new Weather Table on Weka.
 
 ### OUTPUT:
+Employee 
+<img width="1247" height="722" alt="image" src="https://github.com/user-attachments/assets/d8182a3f-b7f8-4d71-bcdc-867f5da6dbdd" />
+Weather
+<img width="1242" height="705" alt="image" src="https://github.com/user-attachments/assets/6ef08fa5-aa69-4e6f-a9ef-1e4b333d2442" />
 
 ### 2) Remove -> Pre-Processing Technique:
 
@@ -91,6 +99,12 @@ rainy,75.0,80.0,false,yes
 11) Click on the Edit button, it shows a new Weather Table on Weka.
 
 ### OUTPUT:
+Employee
+<img width="1267" height="722" alt="image" src="https://github.com/user-attachments/assets/446dcbfe-ee55-46ef-8c43-69ea7d654dbb" />
+Weather
+<img width="1282" height="700" alt="image" src="https://github.com/user-attachments/assets/a02e7694-68d7-4374-a309-a111a5a1be4a" />
+
+
 
 ### Normalize -> Pre-Processing Technique:
 
@@ -107,5 +121,10 @@ rainy,75.0,80.0,false,yes
 11) Click on the Edit button, it shows a new Weather Table with normalized values on Weka.
 
 ### OUTPUT:
+Employee
+<img width="1270" height="722" alt="image" src="https://github.com/user-attachments/assets/216f40f1-b5cf-4ba1-a212-74a1966faa90" />
+Weather
+
+
 ### RESULT: 
   Thus the program for generating employee and weather datasets has been developed, and preprocessing has been accomplished successfully.
